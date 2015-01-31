@@ -1,0 +1,19 @@
+{
+  "name": "SMSerrorReporting",
+  "version": "0.0.0",
+  "description": "A simple http server that sends text messages from http requests through Trilio.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/tFelegie/SMSerrorReporting"
+  },
+  "author": "Terry Felegie",
+  "license": "OSL-3.0",
+  "bugs": {
+    "url": "https://github.com/tFelegie/SMSerrorReporting/issues"
+  },
+  "homepage": "https://github.com/tFelegie/SMSerrorReporting"
+}
